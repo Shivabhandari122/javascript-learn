@@ -48,3 +48,4 @@ let friend = {
     age: 15
 }
 console.log(friend.age)
+
