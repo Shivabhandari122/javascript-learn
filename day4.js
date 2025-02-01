@@ -226,3 +226,5 @@ const output = cartItems.reduce(
 );
 console.log("this is a:" + output);
 console.log("hello");
+
+//start to learn typscript from today
