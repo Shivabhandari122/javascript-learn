@@ -225,3 +225,4 @@ const output = cartItems.reduce(
   { totalPrice: 0, totalQuantity: 0 }
 );
 console.log("this is a:" + output);
+console.log("message");
