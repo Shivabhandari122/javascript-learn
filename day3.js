@@ -100,4 +100,6 @@ var action = 1;
 const ab = () => {
   const car = "tata";
 };
-Object.freeze(ab);
+Object.freeze(car);
+
+alert("hello world");
